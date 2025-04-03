@@ -1,4 +1,4 @@
-# AV Payments - core-lib
+# Sample - core-lib
 
 ## Stack
 
@@ -53,7 +53,7 @@ A Lib possui algumas configurações que devem ser feitas no projeto que a utili
 No application.yaml do seu projeto adicione as seguintes configurações:
 
 ```
-avpay:
+core-lib:
     traceability-headers:
       enabled: true # Habilita ou desabilita a adição de headers de traceabilidade.
     jwt:
